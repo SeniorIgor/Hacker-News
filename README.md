@@ -1,4 +1,4 @@
-# <a href="https://github.com/SeniorIgor/To-Do#-to-do"></a> Hacker-News
+# <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news"></a> Hacker-News
 ### Hacker-News - интерфейс для отображения данных представляемых <a href="https://news.ycombinator.com/news">API Hacker News</a>.
 
 Приложение разработано с использованием React и Redux. Также реализован бэкенд для хостинга статики и API для инкапсуляции внешних запросов на Node.JS.  
