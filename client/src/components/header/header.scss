@@ -1,0 +1,73 @@
+//
+
+@import "./../../styles/variables.scss";
+
+.header {
+	position: relative;
+	display: flex;
+	align-items: center;
+
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.15);
+	z-index: 101;
+	background-color: $color_white;
+
+	&__wrap {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	&__logo {
+		display: flex;
+		align-items: center;
+		flex-shrink: 0;
+		width: 215px;
+		font-size: 20px;
+		font-weight: 400;
+		letter-spacing: -0.5px;
+		text-transform: uppercase;
+		transition: $btn-transition;
+		color: $color_green;
+
+		z-index: 101;
+
+		&:visited {
+			color: $color_green;
+		}
+		&:hover {
+			color: $color_black;
+		}
+	}
+
+	&__logo-text {
+		font-size: 20px;
+		word-spacing: 2px;
+	}
+
+	&__logo-image {
+		margin-right: 15px;
+		padding: 15px 20px;
+		font-size: 30px;
+
+		color: $color_white;
+		background-color: $color_green;
+		transition: $btn-transition;
+	}
+
+	&__nav {
+		margin: 0 0 0 100px;
+		color: #888;
+	}
+
+	&__nav-text {
+		padding: 5px 0 3px;
+		height: auto;
+		font-size: 16px;
+		font-weight: 300;
+		text-transform: uppercase;
+		border-bottom: 2px solid $color_white;
+
+		&:hover {
+			border-bottom: 2px solid $color_green;
+		}
+	}
+}

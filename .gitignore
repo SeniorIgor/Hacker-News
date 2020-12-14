@@ -1,0 +1,18 @@
+# layouts
+*.psd
+*.fig
+
+# node_modules
+/node_modules/*
+
+# client node_modules
+/client/node_modules/*
+
+# client node_modules
+/package-lock.json
+
+# client node_modules
+/client/package-lock.json
+
+# dist
+/dist/*

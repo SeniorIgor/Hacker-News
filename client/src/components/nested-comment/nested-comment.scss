@@ -1,0 +1,42 @@
+//
+@import "../../styles/variables.scss";
+
+.nested-comment {
+	position: relative;
+	width: 100%;
+	padding-left: 25px;
+	margin-top: 10px;
+	border-left: 1px solid #c7c2c2;
+
+	&__info {
+		align-items: baseline;
+		margin-bottom: 10px;
+		letter-spacing: 0.1px;
+
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 16px;
+	}
+
+	&__info-text {
+		margin: 0 6px 0 0;
+		// color: $color_lidht-gray;
+	}
+
+	&__info-owner {
+		margin: 0 6px 0 0;
+		color: $color;
+		font-weight: 400;
+		// color: $color_green;
+		color: #693ac0 !important;
+	}
+
+	&__text {
+		text-align: justify;
+		font-size: 14px;
+		font-weight: 300;
+		word-wrap: break-word;
+		color: $color_black;
+		letter-spacing: 0.2px;
+	}
+}

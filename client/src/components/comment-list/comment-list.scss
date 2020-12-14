@@ -1,0 +1,41 @@
+//
+
+@import "../../styles//variables.scss";
+
+.comment-list {
+	position: relative;
+
+	&__loading {
+		position: absolute;
+		display: inline-block;
+		top: -15px;
+		width: 100%;
+		height: 30px;
+		z-index: 100;
+		// background-color: $color_error;
+	}
+
+	&__text {
+	}
+
+	&__btn-wrap {
+		display: flex;
+		justify-content: flex-end;
+		padding: 10px 0 25px;
+		z-index: 0;
+	}
+
+	&__btn {
+	}
+
+	&__wrap {
+		// border: 1px solid #f0f0f0;
+		// border: 1px solid $color_lidht-gray;
+		// border-radius: 8px;
+	}
+
+	&__item {
+		padding: 15px 0 0;
+		// border-bottom: 1px solid $color_lidht-gray;
+	}
+}
