@@ -6,7 +6,7 @@
 
 ---
 
-### Реализована версия с конфигурацией сборки проекта в Docker image <a href="https://github.com/SeniorIgor/Hacker-News-Docker">Hacker News Docker</a>.
+### Реализована версия с конфигурацией сборки в Docker image <a href="https://github.com/SeniorIgor/Hacker-News-Docker">Hacker News Docker</a>.
 
 ---
   
