@@ -1,7 +1,10 @@
 # <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news"></a> Hacker-News
 ### Hacker-News - интерфейс для отображения данных предоставляемых <a href="https://news.ycombinator.com/news">API Hacker News</a>.
 
-Приложение разработано с использованием React и Redux. Также реализован бэкенд для хостинга статики и API для инкапсуляции внешних запросов на Node.JS.  
+1. Приложение разработано с использованием React и Redux. 
+2. Также реализован бэкенд для хостинга статики и API для инкапсуляции внешних запросов на Node.JS.
+
+### Реализована версия с конфигурацией сборки проекта в образе Docker <a href="https://github.com/SeniorIgor/Hacker-News-Docker/blob/master/README.md#-hacker-news-docker">Hacker News Docker</a>.
   
 ### Для запуска приложения выполните следующие действия:
 Откройте окно командной строки, перейдите в корень проекта и выполните следующую команду:
