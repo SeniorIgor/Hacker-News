@@ -1,7 +1,7 @@
 # <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news"></a> Hacker-News
 ### Hacker-News - интерфейс для отображения данных предоставляемых <a href="https://news.ycombinator.com/news">API Hacker News</a>.
 
-<hr>
+***
 
 #### Ссылка на описание задания: <a href="https://github.com/avito-tech/sx-frontend-trainee-assignment">Тестовое задание</a>
 
