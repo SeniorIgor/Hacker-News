@@ -1,9 +1,11 @@
 # <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news"></a> Hacker-News
 ### Hacker-News - интерфейс для отображения данных предоставляемых <a href="https://news.ycombinator.com/news">API Hacker News</a>.
 
-***
+<hr style="border:1px solid gray"> </hr>
 
 #### Ссылка на описание задания: <a href="https://github.com/avito-tech/sx-frontend-trainee-assignment">Тестовое задание</a>
+
+<hr style="border:1px solid gray"> </hr>
 
 1. Приложение разработано с использованием React и Redux. 
 2. Также реализован бэкенд для хостинга статики и API для инкапсуляции внешних запросов на Node.JS.
